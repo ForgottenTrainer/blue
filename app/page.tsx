@@ -1,4 +1,6 @@
 import About from "./components/About";
+import AboutCompany from "./components/AboutCompany";
+import Certificate from "./components/Certificate";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Query from "./components/Query";
@@ -12,6 +14,8 @@ export default function Home() {
       <About />
       <Query />
       <Stage />
+      <AboutCompany />
+      <Certificate />
     </>
   );
 }

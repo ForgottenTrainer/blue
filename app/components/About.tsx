@@ -4,8 +4,8 @@ import Link from "next/link"
 const About = () => {
   return (
     <div className="px-5 lg:px-10 py-10">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 ">
-            <div className="align-center justify-center my-auto">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 ">
+            <div className="align-center justify-center my-auto px-5">
                 <h3 className="text-3xl font-bold text-black lg:text-5xl ">
                     Blue Sea Lighting - Professional Stage Lighting OEM/ODM
                 </h3>
